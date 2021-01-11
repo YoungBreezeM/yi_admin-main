@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.fw.core.mapper.VideoMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.fw.core.entity.Video">
+        <id column="id" property="id" />
+        <result column="video_category_id" property="videoCategoryId" />
+        <result column="videoName" property="videoName" />
+        <result column="type" property="type" />
+        <result column="createdTime" property="createdTime" />
+        <result column="videoUrl" property="videoUrl" />
+        <result column="size" property="size" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        id, video_category_id, videoName, type, createdTime, videoUrl,size
+    </sql>
+
+</mapper>

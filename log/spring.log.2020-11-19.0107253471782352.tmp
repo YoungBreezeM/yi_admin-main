@@ -1,0 +1,14 @@
+2020-11-20 10:25:20.830  WARN 785134 --- [http-nio-8082-exec-1] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-20 15:25:29.728  INFO 785134 --- [Thread-2] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2020-11-20 15:25:29.735  INFO 785134 --- [Thread-2] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed

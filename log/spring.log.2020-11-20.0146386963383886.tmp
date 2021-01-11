@@ -1,0 +1,944 @@
+2020-11-21 10:12:23.086  WARN 1379190 --- [http-nio-8082-exec-8] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:17:52.574  WARN 1379190 --- [http-nio-8082-exec-4] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:22:07.265  WARN 1379190 --- [http-nio-8082-exec-8] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:23:00.044  WARN 1379190 --- [http-nio-8082-exec-10] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:24:16.745  WARN 1379190 --- [http-nio-8082-exec-2] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:25:07.314  WARN 1379190 --- [http-nio-8082-exec-6] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:31:06.376  WARN 1379190 --- [http-nio-8082-exec-4] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:35:11.735  WARN 1379190 --- [http-nio-8082-exec-8] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:38:28.614  WARN 1379190 --- [http-nio-8082-exec-5] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:39:17.693  WARN 1379190 --- [http-nio-8082-exec-1] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:40:59.122  WARN 1379190 --- [http-nio-8082-exec-6] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:41:42.173  WARN 1379190 --- [http-nio-8082-exec-5] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:44:43.476  WARN 1379190 --- [http-nio-8082-exec-2] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:45:32.710  WARN 1379190 --- [http-nio-8082-exec-6] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:46:52.279  WARN 1379190 --- [http-nio-8082-exec-7] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:48:04.733  WARN 1379190 --- [http-nio-8082-exec-9] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:48:46.578  WARN 1379190 --- [http-nio-8082-exec-3] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:49:33.036  WARN 1379190 --- [http-nio-8082-exec-7] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:50:28.830  WARN 1379190 --- [http-nio-8082-exec-2] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:51:36.918  WARN 1379190 --- [http-nio-8082-exec-3] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:53:06.712  WARN 1379190 --- [http-nio-8082-exec-4] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:54:14.626  WARN 1379190 --- [http-nio-8082-exec-8] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:56:09.582  WARN 1379190 --- [http-nio-8082-exec-5] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:57:42.381  WARN 1379190 --- [http-nio-8082-exec-2] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:58:54.149  WARN 1379190 --- [http-nio-8082-exec-3] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 10:59:03.880  INFO 1379190 --- [http-nio-8082-exec-5] com.fw.core.utils.TokenUtil              : 认证通过
+2020-11-21 10:59:03.880  INFO 1379190 --- [http-nio-8082-exec-5] com.fw.core.utils.TokenUtil              : token:{"openid":"oj9Q-5bLVwSSiZey85-Hb_cptx6c","sessionKey":"9Npr/m3LT0xM3xgsxIE9XQ=="}
+2020-11-21 10:59:03.880  INFO 1379190 --- [http-nio-8082-exec-5] com.fw.core.utils.TokenUtil              : 过期时间：Sat Nov 21 12:57:39 CST 2020
+2020-11-21 11:00:06.124  WARN 1379190 --- [http-nio-8082-exec-1] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:00:37.397  WARN 1379190 --- [http-nio-8082-exec-8] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:02:07.172  WARN 1379190 --- [http-nio-8082-exec-5] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:03:32.685  WARN 1379190 --- [http-nio-8082-exec-2] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:04:10.975  WARN 1379190 --- [http-nio-8082-exec-6] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:05:12.038  WARN 1379190 --- [http-nio-8082-exec-7] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:05:12.468  WARN 1379190 --- [http-nio-8082-exec-2] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:06:00.321  WARN 1379190 --- [http-nio-8082-exec-9] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:07:49.956  WARN 1379190 --- [http-nio-8082-exec-6] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:07:57.652  WARN 1379190 --- [http-nio-8082-exec-7] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:09:56.546  WARN 1379190 --- [http-nio-8082-exec-10] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:11:11.292  WARN 1379190 --- [http-nio-8082-exec-1] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:13:30.064  WARN 1379190 --- [http-nio-8082-exec-8] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:14:08.651  WARN 1379190 --- [http-nio-8082-exec-5] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:15:02.232  WARN 1379190 --- [http-nio-8082-exec-1] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:15:46.862  WARN 1379190 --- [http-nio-8082-exec-3] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:17:57.654  WARN 1379190 --- [http-nio-8082-exec-7] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:18:42.534  WARN 1379190 --- [http-nio-8082-exec-2] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:18:49.369  INFO 1379190 --- [http-nio-8082-exec-3] com.fw.core.utils.TokenUtil              : 认证通过
+2020-11-21 11:18:49.369  INFO 1379190 --- [http-nio-8082-exec-3] com.fw.core.utils.TokenUtil              : token:{"openid":"oj9Q-5bLVwSSiZey85-Hb_cptx6c","sessionKey":"55J66LaFjwgz+LW6m2HPVg=="}
+2020-11-21 11:18:49.369  INFO 1379190 --- [http-nio-8082-exec-3] com.fw.core.utils.TokenUtil              : 过期时间：Sat Nov 21 13:17:53 CST 2020
+2020-11-21 11:20:31.050  WARN 1379190 --- [http-nio-8082-exec-7] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:20:40.733  WARN 1379190 --- [http-nio-8082-exec-2] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:22:21.438  WARN 1379190 --- [http-nio-8082-exec-7] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:22:25.609  WARN 1379190 --- [http-nio-8082-exec-2] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:23:54.218  WARN 1379190 --- [http-nio-8082-exec-5] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:24:22.536  WARN 1379190 --- [http-nio-8082-exec-1] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:26:32.401  WARN 1379190 --- [http-nio-8082-exec-8] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:27:12.657  WARN 1379190 --- [http-nio-8082-exec-5] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:28:21.166  WARN 1379190 --- [http-nio-8082-exec-2] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:29:00.347  WARN 1379190 --- [http-nio-8082-exec-8] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:30:24.399  WARN 1379190 --- [http-nio-8082-exec-7] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:33:07.448  WARN 1379190 --- [http-nio-8082-exec-9] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:34:31.677  WARN 1379190 --- [http-nio-8082-exec-6] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:36:31.407  WARN 1379190 --- [http-nio-8082-exec-2] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:36:38.968  WARN 1379190 --- [http-nio-8082-exec-6] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:37:24.008  WARN 1379190 --- [http-nio-8082-exec-5] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:37:24.881  WARN 1379190 --- [http-nio-8082-exec-4] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:37:25.580  WARN 1379190 --- [http-nio-8082-exec-7] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:37:26.295  WARN 1379190 --- [http-nio-8082-exec-1] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:37:27.048  WARN 1379190 --- [http-nio-8082-exec-2] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:38:58.371  WARN 1379190 --- [http-nio-8082-exec-4] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:43:10.131  WARN 1379190 --- [http-nio-8082-exec-8] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:43:17.240  WARN 1379190 --- [http-nio-8082-exec-6] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:45:44.553  WARN 1379190 --- [http-nio-8082-exec-9] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:45:50.365  WARN 1379190 --- [http-nio-8082-exec-6] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:47:02.069  WARN 1379190 --- [http-nio-8082-exec-9] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:47:33.255  WARN 1379190 --- [http-nio-8082-exec-6] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:47:57.567  WARN 1379190 --- [http-nio-8082-exec-1] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:49:22.998  WARN 1379190 --- [http-nio-8082-exec-5] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:49:32.390  WARN 1379190 --- [http-nio-8082-exec-2] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:52:06.500  WARN 1379190 --- [http-nio-8082-exec-6] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 11:52:07.329  WARN 1379190 --- [http-nio-8082-exec-4] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 16:38:22.513  WARN 1379190 --- [http-nio-8082-exec-2] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 16:40:18.744  WARN 1379190 --- [http-nio-8082-exec-1] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 16:49:55.729  WARN 1379190 --- [http-nio-8082-exec-7] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,category_id,content,client_id,integral,watch,time  FROM questions 
+ 
+ WHERE  category_id=?
+
+
+
+
+
+
+
+  ORDER BY time DESC", exception:
+null
+2020-11-21 17:06:45.750  INFO 1379190 --- [Thread-2] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2020-11-21 17:06:45.753  INFO 1379190 --- [Thread-2] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed

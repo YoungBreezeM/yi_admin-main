@@ -1,0 +1,5 @@
+# Project exclude paths
+/admin/target/
+/core/target/
+/spider/target/
+/wx/target/

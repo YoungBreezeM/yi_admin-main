@@ -1,0 +1,5 @@
+2020-11-19 09:05:08.762  INFO 383866 --- [http-nio-8082-exec-10] com.fw.core.utils.TokenUtil              : 认证通过
+2020-11-19 09:05:08.767  INFO 383866 --- [http-nio-8082-exec-10] com.fw.core.utils.TokenUtil              : token:{"openid":"oj9Q-5bLVwSSiZey85-Hb_cptx6c","sessionKey":"9UPkIxQpgaE5+YH79PNbJA=="}
+2020-11-19 09:05:08.767  INFO 383866 --- [http-nio-8082-exec-10] com.fw.core.utils.TokenUtil              : 过期时间：Thu Nov 19 11:02:10 CST 2020
+2020-11-19 09:08:37.461  INFO 383866 --- [Thread-2] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2020-11-19 09:08:37.475  INFO 383866 --- [Thread-2] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed

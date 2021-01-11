@@ -1,0 +1,6 @@
+2020-11-24 09:14:01.652  WARN 655070 --- [http-nio-8080-exec-2] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,categoryName  FROM images_category", exception:
+null
+2020-11-24 09:26:40.344  WARN 655070 --- [http-nio-8080-exec-4] c.b.m.e.p.i.PaginationInnerInterceptor   : optimize this sql to a count sql has exception, sql:"SELECT  id,categoryName  FROM community_category", exception:
+null
+2020-11-24 09:38:57.665  INFO 655070 --- [Thread-2] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2020-11-24 09:38:57.667  INFO 655070 --- [Thread-2] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
